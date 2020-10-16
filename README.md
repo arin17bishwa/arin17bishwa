@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-bg.19u10466@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bg.19u10466@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Bishwajit%20Ghosh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishwajit-ghosh-6a896b1a3/ "Connect on LinkedIn")
 
-<a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/40869152.jpg" align="right" height="200" /></a>
+<a href=""><img src="https://github.com/arin17bishwa/arin17bishwa/blob/main/pics/IMG_20190315_063436973_HDR-EFFECTS-1.jpg" align="right" height="200" /></a>
 
 I am a Sophomore Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
