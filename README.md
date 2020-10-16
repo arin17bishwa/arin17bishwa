@@ -1,4 +1,4 @@
-## Hi there, I'm Bishwajit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 
+## Hi there, I'm Bishwajit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👨🏻‍💻 
 
 [![Gmail Badge](https://img.shields.io/badge/-bg.19u10466@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bg.19u10466@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Bishwajit%20Ghosh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishwajit-ghosh-6a896b1a3/ "Connect on LinkedIn")
