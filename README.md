@@ -33,9 +33,9 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 <!--
 ## Find me around the web :globe_with_meridians:
-[![DEV Badge](https://img.shields.io/badge/-iabhishekbasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/iabhishekbasu)
-[![StackOverflow Badge](https://img.shields.io/badge/-iabhishekbasu-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14384573/abhishek-basu?tab=profile)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/iabhishekbasu/)
+[![DEV Badge](https://img.shields.io/badge/-arin17bishwabasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/arin17bishwabasu)
+[![StackOverflow Badge](https://img.shields.io/badge/-arin17bishwabasu-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14384573/arin17bishwa-basu?tab=profile)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arin17bishwabasu/)
 [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/)
