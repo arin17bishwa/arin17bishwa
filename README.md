@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## Hi there, I'm Bishwajit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🏼👨🏻‍💻 
 
 [![Gmail Badge](https://img.shields.io/badge/-bg.19u10466@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bg.19u10466@btech.nitdgp.ac.in "Connect via Email")
