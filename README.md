@@ -9,7 +9,6 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 - 🌱 I’m currently learning Python, JavaScript and Data Structures and Algorithms in C
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
-- 💬 Talk to me about **Books**, **Table Tennis** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Bishwajit-) above
 - 📝[Resume]()
 
