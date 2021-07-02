@@ -17,6 +17,9 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 <!-- <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/GlLRaZV.png" align="right" width="350" /></a> -->
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/arin17bishwa)
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=arin17bishwa&theme=onedark&show_icons=true&locale=en&layout=compact)<br>
+
 <!-- <a href="https://github.com/arin17bishwa/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arin17bishwa" width="275" height="275" />
 </a> -->
