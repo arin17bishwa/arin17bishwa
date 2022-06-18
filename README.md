@@ -5,9 +5,9 @@
 
 <a href=""><img src="https://github.com/arin17bishwa/arin17bishwa/blob/main/pics/IMG_20190315_063436973_HDR-EFFECTS-1.jpg" align="right" height="200" /></a>
 
-I am a pre-final year Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a final year Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning Python, JavaScript and Data Structures and Algorithms in C
+- 🌱 I’m currently learning Python, SQL, JavaScript and Data Structures and Algorithms
 - 👯 I’m looking to collaborate on any Web Development/ML project which seems interesting or useful
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Bishwajit-) above
 - 📝[Resume]()
