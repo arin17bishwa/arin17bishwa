@@ -10,7 +10,7 @@ I am a final year Student at The National Institute of Technology Durgapur, purs
 - 🌱 I’m currently learning Python, SQL, JavaScript and Data Structures and Algorithms
 - 👯 I’m looking to collaborate on any Web Development/ML project which seems interesting or useful
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Bishwajit-) above
-- 📝[Resume]()
+- 📝[Resume](https://pdfhost.io/v/0EC5FeWB1_Resume_BishwajitGhosh)
 
 
 ## Some of my Github Public Stats
