@@ -1,6 +1,6 @@
 ## Hi there, I'm Bishwajit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👨🏻‍💻 
 
-[![Gmail Badge](https://img.shields.io/badge/-bg.19u10466@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bg.19u10466@btech.nitdgp.ac.in "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-bg.19u10466@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arin17bishwa@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Bishwajit%20Ghosh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishwajit-ghosh/ "Connect on LinkedIn")
 
 <a href=""><img src="https://github.com/arin17bishwa/arin17bishwa/blob/main/pics/IMG_20190315_063436973_HDR-EFFECTS-1.jpg" align="right" height="200" /></a>
