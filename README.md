@@ -18,6 +18,11 @@ I am a final year Student at The National Institute of Technology Durgapur, purs
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/arin17bishwa)
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
 
+
+<img width=500 src='https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515' />
+<img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=arin17bishwa&theme=vue-dark&hide_border=true' />
+<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=arin17bishwa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=arin17bishwa&theme=onedark&show_icons=true&locale=en&layout=compact)<br>
 
 <!-- <a href="https://github.com/arin17bishwa/convoychat">
