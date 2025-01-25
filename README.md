@@ -15,15 +15,12 @@ I am a final year Student at The National Institute of Technology Durgapur, purs
 
 ## Some of my Github Public Stats
 <!-- <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/GlLRaZV.png" align="right" width="350" /></a> -->
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/arin17bishwa)
+<a href="https://github.com/arin17bishwa"><img width=500 src='https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515' /> </a>
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
 
-
-<img width=500 src='https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515' />
 <img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=arin17bishwa&theme=vue-dark&hide_border=true' />
-<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=arin17bishwa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=arin17bishwa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=arin17bishwa&theme=onedark&show_icons=true&locale=en&layout=compact)<br>
 
 <!-- <a href="https://github.com/arin17bishwa/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arin17bishwa" width="275" height="275" />
@@ -32,10 +29,9 @@ I am a final year Student at The National Institute of Technology Durgapur, purs
 ![Profile Views](https://komarev.com/ghpvc/?username=arin17bishwa&color=blue)
 
 ## **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!--
