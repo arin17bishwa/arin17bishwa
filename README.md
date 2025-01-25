@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-arin17bishwa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arin17bishwa@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Bishwajit%20Ghosh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishwajit-ghosh/ "Connect on LinkedIn")
 
-<a href=""><img src="https://github.com/arin17bishwa/arin17bishwa/blob/main/pics/IMG_20190315_063436973_HDR-EFFECTS-1.jpg" align="right" height="200" /></a>
+<a href=""><img src="pics/IMG_20190315_063436973_HDR-EFFECTS-1.jpg" align="right" height="200" /></a>
 
 I am a final year Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering, who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
@@ -16,7 +16,7 @@ I am a final year Student at The National Institute of Technology Durgapur, purs
 ## Some of my Github Public Stats
 <!-- <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/GlLRaZV.png" align="right" width="350" /></a> -->
 <a href="https://github.com/arin17bishwa"><img width=500 src='https://github-readme-stats.vercel.app/api?username=arin17bishwa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515' /> </a>
-<a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
+<a href=""><img src="pics/github_computing.gif" align="right" width="275" height="250" /></a>
 
 <img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=arin17bishwa&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=arin17bishwa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
